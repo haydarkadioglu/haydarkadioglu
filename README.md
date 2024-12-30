@@ -3,29 +3,24 @@
 I’m a passionate developer from Turkey, exploring various technologies and working on exciting projects. Below are some highlights of my work and skills.
 
 #### Programming Languages & Frameworks
-- 🐍 Python  
-- 💻 C#  
-- 🌐 JavaScript  
-- ⚛️ React  
+![Python](https://skillicons.dev/icons?i=python)  
+![C#](https://skillicons.dev/icons?i=cs)  
+![JavaScript](https://skillicons.dev/icons?i=javascript)  
+![React](https://skillicons.dev/icons?i=react)  
 
 #### Data Science & Machine Learning
-- 📓 Jupyter Notebook  
-- 🐼 Pandas  
-- 🔢 NumPy  
-- 📊 Scikit-learn  
-- 🔍 TensorFlow  
-- 🖼️ OpenCV  
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow)  
+![OpenCV](https://skillicons.dev/icons?i=opencv)  
 
 #### Networks & Cybersecurity
-- 🦈 Wireshark  
-- 🐧 Linux  
-- 🌐 Network  
+![Linux](https://skillicons.dev/icons?i=linux)  
+![Network](https://skillicons.dev/icons?i=network)  
 
 #### Other Tools
-- 🧰 Git  
-- 🐙 GitHub  
-- 🖥️ VS Code  
-- 🔮 Visual Studio  
+![Git](https://skillicons.dev/icons?i=git)  
+![GitHub](https://skillicons.dev/icons?i=github)  
+![VS Code](https://skillicons.dev/icons?i=vscode)  
+![Visual Studio](https://skillicons.dev/icons?i=visualstudio)  
 
 ### 📫 Connect with Me
 
@@ -35,4 +30,4 @@ I’m a passionate developer from Turkey, exploring various technologies and wor
 
 ---
 
-Thank you for visiting my GitHub profile! Feel free to explore my repositories or reach out if you'd like to collaborate on a project. 😊
+Thank you for visiting my GitHub profile! Feel free to explore my repositories or reach out if yo
