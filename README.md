@@ -11,14 +11,14 @@ I’m a passionate developer from Turkey, exploring various technologies and wor
 
 #### Data Science & Machine Learning
 ![Jupyter Notebook](https://cdn1.iconfinder.com/data/icons/carbon-design-system-vol-5/32/logo--jupyter-64.png)
-![Pandas](https://skillicons.dev/icons?i=pandas)
-![NumPy](https://skillicons.dev/icons?i=numpy)
-![Scikit-learn](https://img.icons8.com/color/48/000000/scikit-learn.png)
+![Pandas](https://cdn3.iconfinder.com/data/icons/pandas/100/panda_23_1-256.png)
+![NumPy](https://cdn1.iconfinder.com/data/icons/smallicons-controls/32/614375-grid-256.png)
+![Scikit-learn](https://cdn3.iconfinder.com/data/icons/basic-ui-elements-2-4-filled-outline-45/512/Basic_UI_Elements_2.4_-_Filled_Outline_-_45-45-256.png)
 ![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png)
 ![OpenCV](https://skillicons.dev/icons?i=opencv)
 
 #### Networks & Cybersecurity
-![Wireshark](https://img.icons8.com/color/48/000000/wireshark.png)
+![Wireshark](https://cdn3.iconfinder.com/data/icons/animal-emoji/50/SharkFin-256.png)
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Network](https://img.icons8.com/color/48/000000/network.png)
 
