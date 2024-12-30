@@ -10,15 +10,14 @@ I’m a passionate developer from Turkey, exploring various technologies and wor
 ![React](https://skillicons.dev/icons?i=react)
 
 #### Data Science & Machine Learning
-![Jupyter Notebook](https://skillicons.dev/icons?i=jupyter)
-![Pandas](https://skillicons.dev/icons?i=pandas)
-![NumPy](https://skillicons.dev/icons?i=numpy)
-![Scikit-learn](https://img.icons8.com/color/48/000000/scikit-learn.png)
+<img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter Notebook" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=numpy" alt="NumPy" width="48" height="48" />
 ![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png)
 ![OpenCV](https://skillicons.dev/icons?i=opencv)
 
 #### Networks & Cybersecurity
-![Wireshark](https://img.icons8.com/color/48/000000/wireshark.png)
+<img src="https://img.icons8.com/color/48/000000/wireshark.png" alt="Wireshark" />
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Network](https://img.icons8.com/color/48/000000/network.png)
 
