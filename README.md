@@ -13,19 +13,20 @@ I’m a passionate developer from Turkey, exploring various technologies and wor
 ![Jupyter Notebook](https://skillicons.dev/icons?i=jupyter)
 ![Pandas](https://skillicons.dev/icons?i=pandas)
 ![NumPy](https://skillicons.dev/icons?i=numpy)
-![Scikit-learn](https://skillicons.dev/icons?i=scikit-learn)
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
+![Scikit-learn](https://img.icons8.com/color/48/000000/scikit-learn.png)
+![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png)
+![OpenCV](https://skillicons.dev/icons?i=opencv)
 
 #### Networks & Cybersecurity
-![Wireshark](https://skillicons.dev/icons?i=wireshark)
+![Wireshark](https://img.icons8.com/color/48/000000/wireshark.png)
 ![Linux](https://skillicons.dev/icons?i=linux)
-![Network](https://skillicons.dev/icons?i=network)
+![Network](https://img.icons8.com/color/48/000000/network.png)
 
 #### Other Tools
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
-![Visual Studio](https://skillicons.dev/icons?i=visualstudio)
+![Visual Studio](https://img.icons8.com/color/48/000000/visual-studio.png)
 
 
 ### 📫 Connect with Me
