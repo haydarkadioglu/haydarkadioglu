@@ -10,22 +10,22 @@ I’m a passionate developer from Turkey, exploring various technologies and wor
 ![React](https://skillicons.dev/icons?i=react)
 
 #### Data Science & Machine Learning
-<img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter Notebook" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=numpy" alt="NumPy" width="48" height="48" />
-![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png)
-![OpenCV](https://skillicons.dev/icons?i=opencv)
+![Jupyter Notebook](https://skillicons.dev/icons?i=jupyter)
+![Pandas](https://skillicons.dev/icons?i=pandas)
+![NumPy](https://skillicons.dev/icons?i=numpy)
+![Scikit-learn](https://skillicons.dev/icons?i=scikit-learn)
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
 
 #### Networks & Cybersecurity
-<img src="https://img.icons8.com/color/48/000000/wireshark.png" alt="Wireshark" />
+![Wireshark](https://skillicons.dev/icons?i=wireshark)
 ![Linux](https://skillicons.dev/icons?i=linux)
-![Network](https://img.icons8.com/color/48/000000/network.png)
+![Network](https://skillicons.dev/icons?i=network)
 
 #### Other Tools
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
-![Visual Studio](https://img.icons8.com/color/48/000000/visual-studio.png)
+![Visual Studio](https://skillicons.dev/icons?i=visualstudio)
 
 
 ### 📫 Connect with Me
