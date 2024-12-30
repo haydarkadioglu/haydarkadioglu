@@ -10,7 +10,7 @@ I’m a passionate developer from Turkey, exploring various technologies and wor
 ![React](https://skillicons.dev/icons?i=react)
 
 #### Data Science & Machine Learning
-![Jupyter Notebook](https://skillicons.dev/icons?i=jupyter)
+![Jupyter Notebook]([https://skillicons.dev/icons?i=jupyte](https://cdn1.iconfinder.com/data/icons/carbon-design-system-vol-5/32/logo--jupyter-64.png))
 ![Pandas](https://skillicons.dev/icons?i=pandas)
 ![NumPy](https://skillicons.dev/icons?i=numpy)
 ![Scikit-learn](https://img.icons8.com/color/48/000000/scikit-learn.png)
