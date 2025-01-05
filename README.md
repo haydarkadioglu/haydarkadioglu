@@ -67,21 +67,20 @@
 
 <details open>
 <summary>GitHub Stats</summary>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=haydarkadioglu&show_icons=true&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="Haydar Kadıoğlu's GitHub stats" />
-</p>
 
-<p align="center">
-    <img src="https://streak-stats.demolab.com?user=haydarkadioglu&theme=dark&ring=C2FFC7&fire=CB9DF0&currStreakLabel=C2FFC7" alt="Haydar Kadıoğlu's streak"/>
-</p>
+<div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=haydarkadioglu&show_icons=true&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="Haydar Kadıoğlu's GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=haydarkadioglu&theme=dark&ring=C2FFC7&fire=CB9DF0&currStreakLabel=C2FFC7" alt="Haydar Kadıoğlu's streak" />
+</div>
 
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=haydarkadioglu&theme=dark&column=-1&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="Haydar Kadıoğlu's trophies"/>
-</p>
+
 </details>
 
+
 <div align="center">
-<a href="#">
-    <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C2FFC7&height=120&section=header&text=Thanks%20for%20visiting!&fontSize=30&fontColor=000000&animation=twinkling"/>
-</a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Thanks%20You%20for%20Visiting%20%20😊&section=footer&reversal=false" />
+  <p>
+    <strong>“The best way to predict the future is to invent it.”</strong> - Alan Kay
+  </p>
 </div>
+
