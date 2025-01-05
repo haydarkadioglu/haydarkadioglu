@@ -13,10 +13,9 @@
 <details open>
 <summary>About Me</summary>
 <ul>
-<li>🔭 Exploring cutting-edge technologies and working on exciting projects in AI, automation, and software engineering.</li>
-<li>🌱 Currently learning advanced machine learning algorithms and enhancing my skills in C# and Python.</li>
+<li>🔭 Exploring cutting-edge technologies and working on exciting projects in AI and software engineering.</li>
+<li>🌱 Currently enhancing my skills in Artificial Intelligence, Data Science and Python.</li>
 <li>👨‍💻 Check out all my projects on <a href="https://github.com/haydarkadioglu">GitHub</a>.</li>
-<li>📫 Reach me at <strong><a href="mailto:a.haydar.kadioglu@hotmail.com">a.haydar.kadioglu@hotmail.com</a></strong>.</li>
 <li>⚡ Fun fact: I believe in combining creativity with technology to change the world.</li>
 </ul>
 </details>
@@ -80,7 +79,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Thanks%20You%20for%20Visiting%20%20😊&section=footer&reversal=false" />
   <p>
-    <strong>“The best way to predict the future is to invent it.”</strong> - Alan Kay
+    <strong>“Keep calm and fly high”</strong>
   </p>
 </div>
 
