@@ -4,6 +4,7 @@
     <img src="https://img.shields.io/badge/Focus-AI%20Development-C2FFC7?style=flat" />
     <img src="https://img.shields.io/badge/Focus-Network-CB9DF0?style=flat" />
     <img src="https://img.shields.io/badge/Focus-Software%20Engineering-C2FFC7?style=flat" />
+    <img src="https://img.shields.io/badge/Focus-Cyber-CB9DF0?style=flat" />
 </p>
 
 <p align="center">
