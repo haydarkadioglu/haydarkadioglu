@@ -24,8 +24,8 @@
 <details open>
 <summary>I'm developing</summary>
 <ul>
-<li>👨‍💻 Diet-web <a href="https://diet-web.vercel.app/">Vercel</a>.</li>
-<li>👨‍💻 Notiral <a href="https://notiral.com.tr/">Notiral</a>.</li>    
+<li>👨‍💻 <a href="https://diet-web.vercel.app/">Diet-web</a>.</li>
+<li>👨‍💻 <a href="https://notiral.com.tr/">Notiral</a>.</li>    
 </ul>
 </details>
 
