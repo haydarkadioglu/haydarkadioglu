@@ -73,7 +73,13 @@
 </p>
 </details>
 
-<a href="https://www.buymeacoffee.com/haydarkadioglu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/haydarkadioglu" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;">
+  </a>
+</p>
+
+
 
 <details open>
 <summary>GitHub Stats</summary>
