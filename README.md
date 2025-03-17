@@ -11,6 +11,13 @@
     <img src="https://komarev.com/ghpvc/?username=haydarkadioglu&label=Profile%20Views&color=000000&style=flat&labelColor=C2FFC7" />
 </p>
 
+<p align="center">
+  <a href="https://www.buymeacoffee.com/haydarkadioglu" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;">
+  </a>
+</p>
+
+
 <details open>
 <summary>About Me</summary>
 <ul>
@@ -73,11 +80,6 @@
 </p>
 </details>
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/haydarkadioglu" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;">
-  </a>
-</p>
 
 
 
