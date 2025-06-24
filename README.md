@@ -33,6 +33,7 @@
 <ul>
 <li>👨‍💻 <a href="https://fitruva.com/">Fitruva Web Application</a>.</li>
 <li>👨‍💻 <a href="https://notiral.com.tr/">Notiral</a>.</li>    
+<li>👨‍💻 <a href="https://yourresume.notiral.com/">YouResume</a>.</li>    
 </ul>
 </details>
 
