@@ -101,7 +101,7 @@
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Thanks%20You%20for%20Visiting%20%20😊&section=footer&reversal=false" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Thanks%20for%20Visiting%20%20😊&section=footer&reversal=false" />
   <p>
     <strong>“Keep calm and fly high”</strong>
   </p>
