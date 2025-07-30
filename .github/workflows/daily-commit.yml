@@ -7,6 +7,7 @@ on:
     # If you want it to run at a different time in your local timezone,
     # adjust the cron expression. For example, for 09:00 AM TRT, use '0 6 * * *' (06:00 UTC).
     - cron: '0 0 * * *'
+    - cron: '0 12 * * *'
   workflow_dispatch: # This allows you to manually trigger the workflow from the GitHub UI.
 
 jobs:
