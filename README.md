@@ -29,21 +29,23 @@
 </details>
 
 <details open>
-<summary>I'm developing</summary>
-<ul>
-<li>👨‍💻 <a href="https://fitruva.com/">Fitruva Web Application</a>.</li>
-<li>👨‍💻 <a href="https://notiral.com.tr/">Notiral</a>.</li>    
-<li>👨‍💻 <a href="https://yourresume.notiral.com/">YouResume</a>.</li>    
-<li>👨‍💻 <a href="https://wordlune.notiral.com/">WordLune</a>.</li>    
-</ul>
-</details>
-
-<details open>
 <summary>Projects</summary>
 <ul>
 <li>👨‍💻 <a href="https://pypi.org/project/sipa/">SIPA - Simple Image Processing Application (PyPI Library)</a>.</li>
 </ul>
 </details>
+
+<details open>
+<summary>I'm developing</summary>
+<ul>
+<li>👨‍💻 <a href="https://fitruva.com/">Fitruva Web Application</a>.</li>
+<li>👨‍💻 <a href="https://notiral.com/">Notiral</a>.</li>    
+<li>👨‍💻 <a href="https://yourresume.notiral.com/">YouResume</a>.</li>    
+<li>👨‍💻 <a href="https://wordlune.notiral.com/">WordLune</a>.</li>    
+</ul>
+</details>
+
+
 
 
 <details open>
