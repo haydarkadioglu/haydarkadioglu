@@ -39,6 +39,14 @@
 </details>
 
 <details open>
+<summary>Projects</summary>
+<ul>
+<li>👨‍💻 <a href="https://pypi.org/project/sipa/">SIPA - Simple Image Processing Application (PyPI Library)</a>.</li>
+</ul>
+</details>
+
+
+<details open>
 <summary>Connect With Me</summary>
 <p align="center">
     <a href="https://www.linkedin.com/in/haydarkadioglu/">
