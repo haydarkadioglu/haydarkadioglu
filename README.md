@@ -17,6 +17,20 @@
   </a>
 </p>
 
+<details open>
+<summary>Connect With Me</summary>
+<p align="center">
+    <a href="https://www.linkedin.com/in/haydarkadioglu/">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://www.instagram.com/haydarkadioglu_/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+    <a href="mailto:a.haydar.kadioglu@hotmail.com">
+        <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+    </a>
+</p>
+</details>
 
 <details open>
 <summary>About Me</summary>
@@ -48,20 +62,7 @@
 
 
 
-<details open>
-<summary>Connect With Me</summary>
-<p align="center">
-    <a href="https://www.linkedin.com/in/haydarkadioglu/">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://www.instagram.com/haydarkadioglu_/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-    </a>
-    <a href="mailto:a.haydar.kadioglu@hotmail.com">
-        <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-    </a>
-</p>
-</details>
+
 
 <details open>
 <summary>Skills & Tools</summary>
