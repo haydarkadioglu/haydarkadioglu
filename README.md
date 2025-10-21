@@ -30,7 +30,7 @@
 
 ### 🛠️ Tech Stack  
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,react,js,html,css,tensorflow,opencv,git,linux,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,linux,tensorflow,opencv,git,vscode&theme=dark,react,js,html,css" />
 </p>
 
 ---
