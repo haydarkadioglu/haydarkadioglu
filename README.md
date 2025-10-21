@@ -30,7 +30,9 @@
 
 ### 🛠️ Tech Stack  
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,linux,tensorflow,opencv,git,vscode&theme=dark,react,js,html,css" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,aws,gcp,azure,tensorflow,pytorch,opencv,git,linux,vscode&theme=dark" />
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40" alt="huggingface"/>
+
 </p>
 
 ---
