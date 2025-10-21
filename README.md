@@ -17,7 +17,7 @@
 
 ### 🧠 About Me  
 - 🔭 Exploring **AI**, **Data Science**, and **Software Engineering**  
-- 🌱 Currently developing projects with **Python**, **React**, and **TensorFlow**  
+- 🌱 Currently developing projects with **Python**, **TensorFlow**, and **React**  
 - ⚡ Believer in creativity + technology = innovation  
 
 ---
